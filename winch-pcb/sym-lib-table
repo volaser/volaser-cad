@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name winch-rescue)(type Legacy)(uri ${KIPRJMOD}/winch-rescue.lib)(options "")(descr ""))
+)

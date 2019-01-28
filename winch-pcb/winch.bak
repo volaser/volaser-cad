@@ -5,17 +5,17 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
+Title "Volaser Winch PCB"
 Date ""
 Rev ""
-Comp ""
-Comment1 ""
+Comp "EAWAG"
+Comment1 "Matt Grau"
 Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L winch-rescue:Sparkfun_ESP32-volaser-winch-rescue U2
+L winch-rescue:Sparkfun_ESP32-volaser-winch-rescue-winch-rescue U2
 U 1 1 5BF30979
 P 5250 4350
 F 0 "U2" H 5700 6765 50  0000 C CNN
@@ -81,7 +81,7 @@ F 3 "http://www.ti.com/lit/ds/symlink/lm1117.pdf" H 5750 5600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L winch-rescue:Sparkfun_TB6612-volaser-winch-rescue U1
+L winch-rescue:Sparkfun_TB6612-volaser-winch-rescue-winch-rescue U1
 U 1 1 5BF31BD5
 P 3500 3300
 F 0 "U1" H 3800 3415 50  0000 C CNN
@@ -421,4 +421,6 @@ F 3 "~" H 10450 6300 50  0001 C CNN
 	1    10450 6300
 	1    0    0    -1  
 $EndComp
+Text Notes 10200 5450 0    50   ~ 0
+4 mm mounting holes
 $EndSCHEMATC

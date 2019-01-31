@@ -92,7 +92,7 @@ F 3 "https://www.pololu.com/product/2980/pictures" H 4800 3150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L volaser-rescue:Sparkfun_ESP32-volaser U3
+L volaser:Sparkfun_ESP32 U3
 U 1 1 5BEE3798
 P 1950 4300
 F 0 "U3" H 2400 6715 50  0000 C CNN
@@ -411,7 +411,7 @@ Wire Wire Line
 Wire Wire Line
 	2900 5550 2900 5800
 $Comp
-L volaser-rescue:tf-mini-volaser L2
+L volaser:tf-mini L2
 U 1 1 5BF03044
 P 10350 3600
 F 0 "L2" V 10304 3742 50  0000 L CNN
@@ -422,7 +422,7 @@ F 3 "" H 10350 3600 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L volaser-rescue:tf-mini-volaser L1
+L volaser:tf-mini L1
 U 1 1 5BF04D59
 P 9500 2500
 F 0 "L1" H 8950 2400 50  0000 L CNN
@@ -433,7 +433,7 @@ F 3 "" H 9500 2500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L volaser-rescue:slipring-volaser S1
+L volaser:slipring S1
 U 1 1 5BF060A4
 P 8400 3550
 F 0 "S1" H 8400 3550 50  0000 C CNN

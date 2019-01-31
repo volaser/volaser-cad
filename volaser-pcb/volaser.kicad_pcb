@@ -10,6 +10,12 @@
   )
 
   (page A4)
+  (title_block
+    (title "Volaser PCB")
+    (company EAWAG)
+    (comment 1 "Matt Grau")
+  )
+
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)

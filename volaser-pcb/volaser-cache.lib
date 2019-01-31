@@ -380,11 +380,11 @@ X pwr 1 0 0 0 U 50 50 0 0 w
 ENDDRAW
 ENDDEF
 #
-# volaser_Sparkfun_ESP32
+# volaser-rescue_Sparkfun_ESP32-volaser
 #
-DEF volaser_Sparkfun_ESP32 U 0 40 Y Y 1 F N
+DEF volaser-rescue_Sparkfun_ESP32-volaser U 0 40 Y Y 1 F N
 F0 "U" 450 1700 50 H V C CNN
-F1 "volaser_Sparkfun_ESP32" 450 -100 50 H V C CNN
+F1 "volaser-rescue_Sparkfun_ESP32-volaser" 450 -100 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -437,11 +437,11 @@ X 14 9 -100 800 100 R 50 50 1 1 B
 ENDDRAW
 ENDDEF
 #
-# volaser_slipring
+# volaser-rescue_slipring-volaser
 #
-DEF volaser_slipring S 0 40 Y Y 1 F N
+DEF volaser-rescue_slipring-volaser S 0 40 Y Y 1 F N
 F0 "S" 0 0 50 H V C CNN
-F1 "volaser_slipring" 0 550 50 H V C CNN
+F1 "volaser-rescue_slipring-volaser" 0 550 50 H V C CNN
 F2 "" 650 0 50 H I C CNN
 F3 "" 650 0 50 H I C CNN
 DRAW
@@ -463,11 +463,11 @@ X Brown 6 450 -400 100 L 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
-# volaser_tf-mini
+# volaser-rescue_tf-mini-volaser
 #
-DEF volaser_tf-mini L 0 40 Y Y 1 F N
+DEF volaser-rescue_tf-mini-volaser L 0 40 Y Y 1 F N
 F0 "L" 0 -100 50 H V C CNN
-F1 "volaser_tf-mini" 0 200 50 H V C CNN
+F1 "volaser-rescue_tf-mini-volaser" 0 200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
